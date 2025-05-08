@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Preparation.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Data Preparation"
+              "title": "Introduction"
             }
           }
         ]
